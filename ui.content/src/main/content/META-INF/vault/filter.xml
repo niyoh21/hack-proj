@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/hack-proj" mode="merge"/>
+    <filter root="/content/hack-proj" mode="merge"/>
+    <filter root="/content/dam/hack-proj" mode="merge"/>
+    <filter root="/content/experience-fragments/hack-proj" mode="merge"/>
+</workspaceFilter>

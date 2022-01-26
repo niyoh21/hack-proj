@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/hack-proj/clientlibs"/>
+    <filter root="/apps/hack-proj/components"/>
+    <filter root="/apps/hack-proj/i18n"/>
+</workspaceFilter>

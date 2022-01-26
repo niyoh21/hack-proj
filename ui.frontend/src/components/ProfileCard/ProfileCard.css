@@ -1,0 +1,46 @@
+.container-main {
+  /* border: 2px solid black;
+  background-color: pink; */
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 0 0px 10% 0;
+  margin: 0 5px 0 5px;
+}
+
+.container-info-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.txt-name {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px 0 5px 0;
+}
+
+.container-info-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: left;
+}
+
+.container-info-3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#btn-confirm {
+  margin-bottom: 10px;
+}
