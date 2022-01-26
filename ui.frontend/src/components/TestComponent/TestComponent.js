@@ -24,7 +24,7 @@ const LinearProgressWithLabel = (props) => {
 
 const TestComponent = (props) => {
   return (
-    <div>
+    <div class="tc-main-div">
       <Box>
         <LinearProgressWithLabel
           sx={{ ...props.sx }}
